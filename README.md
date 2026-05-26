@@ -85,6 +85,8 @@ The current label definition is:
 2 = left nasal cavity
 3 = nasopharynx
 ```
+
+![image](https://github.com/YichiZhang98/NasalSeg/blob/main/fig/example.png)
 ## nnU-Net Baseline
 
 The baseline segmentation experiments are based on [nnUNet](https://github.com/MIC-DKFZ/nnUNet).
