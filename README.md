@@ -86,7 +86,7 @@ The current label definition is:
 3 = nasopharynx
 ```
 
-![image](https://github.com/YichiZhang98/NasalSeg/blob/main/fig/example.png)
+![image](https://github.com/fuguer733/Crouzon-PUACT/blob/main/example.png)
 ## nnU-Net Baseline
 
 The baseline segmentation experiments are based on [nnUNet](https://github.com/MIC-DKFZ/nnUNet).
